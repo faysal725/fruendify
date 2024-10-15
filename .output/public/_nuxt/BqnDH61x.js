@@ -1,0 +1,1 @@
+import{o as a,c as e,t as n,C as r}from"./XY3UzohT.js";const l={__name:"Login",props:{name:String,classes:{type:[String,Array],default:"min-w-16 bg-primary text-sm btn-login "}},setup(s){const t=s;return(o,c)=>(a(),e("button",{class:r(s.classes)},n(t.name),3))}};export{l as _};

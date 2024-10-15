@@ -1,0 +1,1 @@
+import{E as o,o as a,c as s,b as n,x as t}from"./XY3UzohT.js";import{r as c}from"./CbyYoqDF.js";const _={__name:"Back",setup(m){const r=o();return(u,e)=>(a(),s("button",{onClick:e[0]||(e[0]=k=>t(r).back())},[n(t(c),{class:"h-6 w-6 text-mediumBlack dark:text-slate-200"})]))}};export{_};

@@ -1,0 +1,1 @@
+import{r as l}from"./XY3UzohT.js";function v(){const t=l(),a=l();let s=l([]);return{multiple:s,url:t,image:a,process:e=>{a.value=e;const r=new FileReader;r.onload=u=>{t.value=u.target.result,s.value.push(u.target.result)},r.readAsDataURL(e)},empty:()=>{a.value=null,t.value=null,s.value=[]},resetFiles:e=>{t.value=e,s.value.push(e)}}}export{v as u};
